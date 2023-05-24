@@ -1,0 +1,30 @@
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 85vh;
+}
+
+.calculator {
+    width: 200px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #EAF2F8;
+    box-shadow: 0 2px 40px rgba(0, 0, 0, 0.1);
+}
+
+input[type="text"] {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+table {
+    width: 100%;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+}
